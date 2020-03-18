@@ -1,14 +1,10 @@
-p.intro {
+.intro {
   color: blue;
   font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
-h2.intro {
-  text-align: center;
-}
-
-img.intro {
+img {
   border-radius: 8px;
   display: block;
   margin-left: auto;
